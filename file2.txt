@@ -1,0 +1,3 @@
+Today i learned factory function in jquery and learn basic concept like componant, how to install nodeJS,
+after how to check node version then how to install react app  and the command is npx create-react-app my-first-app 
+then npm start command to run project on the system.
